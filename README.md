@@ -15,4 +15,4 @@ The purpose of this project was to build an application which utilised handlebar
 
 ## Links to GitHub Repository & Live Project
 ### https://github.com/Foggles/Jack-s-Burger-App
-### https://foggles.github.io/Jack-s-Work-Day-Scheduler/
+### https://burger-application-jf.herokuapp.com/
